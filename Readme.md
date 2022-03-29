@@ -1,5 +1,5 @@
 
-## Entrada e Saída
+## Operações básicas
 - L1 [212 - Olá Neps Academy](https://neps.academy/br/exercise/1)                 [](./codigos/Ol%C3%A1_Neps_Academy.cpp)
 - L1 [134 - Soma Fácil](https://neps.academy/br/exercise/134)
 - L1 [138 - Área do Quadrado](https://neps.academy/br/exercise/138)
